@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 my name is vanel leroy from cameroon.passionate web developper by using .net core
 
 <!--
 **lvan53/lvan53** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
